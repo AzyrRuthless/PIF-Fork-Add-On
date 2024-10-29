@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function main_menu() {
-  echo "PIF Fork by osm0sis Add-on, Created by azyr"
+  echo "PIF Fork by osm0sis Add-on, Created by Azyr"
   echo
   echo "Choose an option:"
   echo "1. Execute autopif"

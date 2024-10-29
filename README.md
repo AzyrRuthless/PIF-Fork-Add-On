@@ -39,7 +39,7 @@ The script processes build.prop files to generate a JSON output that includes va
 
 ## Future Plans
 
-There are plans to develop this project into a Magisk module in the future. However, it will still be for personal use only and won't be officially released. If you're interested in trying it out, feel free to check out the code.
+There are plans to develop this project into a Magisk/KernelSU/APatch module in the future. However, it will still be for personal use only and won't be officially released. If you're interested in trying it out, feel free to check out the code.
 
 ## Why Upload to GitHub?
 
